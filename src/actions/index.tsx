@@ -1,0 +1,1 @@
+export {getWeathers} from './homeActions';
